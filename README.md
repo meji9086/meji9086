@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=meji's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=meji's%20github&desc=Hello%20👋&fontSize=90)
 
-### Hi 👋
+### Hello 👋
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
