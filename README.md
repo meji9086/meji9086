@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF6550&height=300&section=header&text=meji's%20github&fontSize=90&fontColor='white')
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF6550&height=300&section=header&text=meji's%20github&fontSize=90&fontColor=F8F8F5)
 
 ### Hello 👋
 
