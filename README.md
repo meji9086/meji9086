@@ -2,7 +2,7 @@
 
 <div align=center><h1>👋 Hi, I’m YeJi </h1></div> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meji&show_icons=true&theme=radical) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meji9086&show_icons=true&theme=calm) 
 
 
 
