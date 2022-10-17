@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FD755C&height=300&section=header&text=meji's%20github&fontSize=90&fontColor=F8F8F5&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ED986C&height=300&section=header&text=meji's%20github&fontSize=90&fontColor=F8F8F5&animation=fadeIn)
 
-<div align=center><h1>👋 Hi, I’m YeJi </h1></div>     
+<div align=center><h1>👋 Hi, I’m YeJi </h1></div> 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meji&show_icons=true&theme=radical) 
+
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
