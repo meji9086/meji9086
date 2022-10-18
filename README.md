@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
   
+  <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+  
 </div> 
 
    
