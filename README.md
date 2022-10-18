@@ -4,6 +4,7 @@
 <div align="center">
   <h1>👋 Hi, I’m YeJi </h1>           
   <strong>☁️데이터 분석가☁️</strong>를 꿈꾸고 있는 <strong>김예지</strong>입니다.
+  
 
   <h3>👩‍💻 Tech Stack </h3>
   
