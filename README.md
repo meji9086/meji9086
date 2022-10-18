@@ -4,8 +4,7 @@
 <div align="center">
   <h1>👋 Hi, I’m YeJi </h1>           
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meji9086&show_icons=true&theme=calm)       
-
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meji9086&show_icons=true&theme=calm)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meji9086&layout=compact&theme=calm)     
 
 
