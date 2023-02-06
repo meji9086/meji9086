@@ -3,7 +3,7 @@
   
 <div align="center">
   <h3>👋 Introduction </h3>           
-  <h6><strong>끊임없이 도전하는 ☁️데이터 분석가☁️ 김예지</strong>입니다.</h6>       
+  <h6>안녕하세요! <strong>끊임없이 도전하는 ☁️데이터 분석가☁️ 김예지</strong>입니다.</h6>       
   <h6>데이터를 활용하여 약점과 강점을 분석해 기업의 성장에 기여할 수 있습니다.</h6>      
 
   <h3>👩‍💻 Tech Stack </h3>
