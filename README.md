@@ -13,8 +13,11 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-8BC0D0?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-00A98F?style=for-the-badge&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-8BC0D0?style=for-the-badge&logo=MySQL&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=MySQL&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=R&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/HTML-00A98F?style=for-the-badge&logo=HTML&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=MySQL&logoColor=white"/>    
   <img src="https://img.shields.io/badge/R-9999FF?style=for-the-badge&logo=R&logoColor=white"/>   
 
 </div> 
